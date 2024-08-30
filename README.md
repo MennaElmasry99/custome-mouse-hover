@@ -13,4 +13,7 @@ HTML: Provides the basic structure of the page with a heading and a div element.
 CSS: Used for styling the interactive elements, setting up positioning, and creating the visual effects with mix-blend-mode.
 JavaScript: Handles user interactions, including mouse and touch movements, and dynamically updates the position and size of the interactive circle.
 How to Use
-Clone the repository:
+Clone the repository: https://mennaelmasry99.github.io/custome-mouse-hover/
+
+![Uploading image.png…]()
+
